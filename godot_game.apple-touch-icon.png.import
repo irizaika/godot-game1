@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/godot_game.apple-touch-icon.png-dfb80ad418d6fc021acf1126582cafe2.stex"
+path="res://.import/godot_game.apple-touch-icon.png-05b0aa17ee8628ea754391ec60646bb9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://export/godot_game.apple-touch-icon.png"
-dest_files=[ "res://.import/godot_game.apple-touch-icon.png-dfb80ad418d6fc021acf1126582cafe2.stex" ]
+source_file="res://github_pages/godot_game.apple-touch-icon.png"
+dest_files=[ "res://.import/godot_game.apple-touch-icon.png-05b0aa17ee8628ea754391ec60646bb9.stex" ]
 
 [params]
 
